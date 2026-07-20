@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Shashwat1557/Leetcode/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashwat1557/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shashwat1557/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shashwat1557/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
