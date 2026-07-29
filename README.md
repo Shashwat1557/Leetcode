@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashwat1557/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shashwat1557/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shashwat1557/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashwat1557/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
