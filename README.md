@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/Shashwat1557/Leetcode/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Shashwat1557/Leetcode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashwat1557/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashwat1557/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashwat1557/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/Shashwat1557/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwat1557/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0791-custom-sort-string](https://github.com/Shashwat1557/Leetcode/tree/master/0791-custom-sort-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashwat1557/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashwat1557/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Shashwat1557/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
