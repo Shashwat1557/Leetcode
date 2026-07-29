@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shashwat1557/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashwat1557/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shashwat1557/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashwat1557/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Hash Table
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashwat1557/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashwat1557/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0791-custom-sort-string](https://github.com/Shashwat1557/Leetcode/tree/master/0791-custom-sort-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shashwat1557/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/Shashwat1557/Leetcode/tree/master/0791-custom-sort-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shashwat1557/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashwat1557/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Shashwat1557/Leetcode/tree/master/0412-fizz-buzz) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shashwat1557/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
