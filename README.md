@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shashwat1557/Leetcode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Shashwat1557/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Shashwat1557/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Shashwat1557/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Shashwat1557/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Shashwat1557/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Shashwat1557/Leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Shashwat1557/Leetcode/tree/master/0231-power-of-two) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashwat1557/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Simulation
 |  |
