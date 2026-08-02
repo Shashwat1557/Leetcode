@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shashwat1557/Leetcode/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Shashwat1557/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Shashwat1557/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Shashwat1557/Leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Shashwat1557/Leetcode/tree/master/0412-fizz-buzz) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Shashwat1557/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shashwat1557/Leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Shashwat1557/Leetcode/tree/master/0509-fibonacci-number) |
 ## String
