@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shashwat1557/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashwat1557/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/Shashwat1557/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shashwat1557/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shashwat1557/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shashwat1557/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shashwat1557/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/Shashwat1557/Leetcode/tree/master/0912-sort-an-array) |
 ## Enumeration
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat1557/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0791-custom-sort-string](https://github.com/Shashwat1557/Leetcode/tree/master/0791-custom-sort-string) |
+| [0912-sort-an-array](https://github.com/Shashwat1557/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shashwat1557/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shashwat1557/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashwat1557/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -120,5 +123,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Shashwat1557/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shashwat1557/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shashwat1557/Leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shashwat1557/Leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shashwat1557/Leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Shashwat1557/Leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
