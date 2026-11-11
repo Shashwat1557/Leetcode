@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shashwat1557/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Shashwat1557/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashwat1557/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shashwat1557/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Shashwat1557/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Shashwat1557/Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Monotonic Stack
 |  |
 | ------- |
